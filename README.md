@@ -1,3 +1,3 @@
 # Translator
 
-##Hownitbworks 
+## How it works 
