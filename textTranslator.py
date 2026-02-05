@@ -1,3 +1,4 @@
+# A Basic Translator 
 
 """
 The following program will require internet connection to run
@@ -22,3 +23,4 @@ gui.config(bg="black")
 
 
 gui.mainloop()
+
